@@ -1,0 +1,7 @@
+{
+  "token": "MTE2OTcwODk1OTMzMTAwNDQ5OA.GB-BFo.8iZ65ZeDFFDBC38CaMZ44Z8tXnjDb4f5gbSHgk",
+  "port": 3000,
+  "ics": {
+    "url": "https://v-class.gunadarma.ac.id/calendar/export_execute.php?userid=49284&authtoken=b66422cc1396a1097dd9d56ee24fd27c0d409d8c&preset_what=all&preset_time=monthnow"
+  }
+}
